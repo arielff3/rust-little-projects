@@ -1,1 +1,0 @@
-C:\Users\ariel\work\rust\rust-little-projects\leetcodes\target\debug\leetcodes.exe: C:\Users\ariel\work\rust\rust-little-projects\leetcodes\src\main.rs C:\Users\ariel\work\rust\rust-little-projects\leetcodes\src\two_sum.rs
