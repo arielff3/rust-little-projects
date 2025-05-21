@@ -1,5 +1,5 @@
-mod two_sum;
+mod contains_duplicate;
 
 fn main() {
-    two_sum::run();
+  contains_duplicate::run();
 }
